@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bcrawford72
-- 👀 I’m interested in Data Analysis, Project Management, Insurance, and how they can all intertwine.
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Data Analysis.
+- 🌱 I’m currently learning Python and Selenium
 
 
 <!---
