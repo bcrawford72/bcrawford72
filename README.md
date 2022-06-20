@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bcrawford72
 - 👀 I’m interested in Data Analysis.
-- 🌱 I’m currently learning Python and Selenium
+- 🌱 I’m currently learning Python, Java, and Selenium
 
 
 <!---
