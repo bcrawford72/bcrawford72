@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bcrawford72
-- 👀 I’m interested in Data Analysis.
+- 👀 I’m interested in data analysis and science. I love to solve puzzles with logic.
 - 🌱 I’m currently learning Python, Java, and Selenium
 
 
